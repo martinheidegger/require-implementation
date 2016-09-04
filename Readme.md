@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/martinheidegger/require-implementation/badge.svg)](https://coveralls.io/github/martinheidegger/require-implementation)
+[![Build Status](https://travis-ci.org/martinheidegger/require-implementation.svg?branch=master)](https://travis-ci.org/martinheidegger/require-implementation) [![Coverage Status](https://coveralls.io/repos/github/martinheidegger/require-implementation/badge.svg)](https://coveralls.io/github/martinheidegger/require-implementation)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 # require-implementation 
