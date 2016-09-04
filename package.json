@@ -1,0 +1,36 @@
+{
+  "name": "require-implementation",
+  "version": "1.0.0",
+  "description": "Package that helps you to be okay if some dependency is missing.",
+  "main": "implementation.js",
+  "scripts": {
+    "test": "standard && tap --cov test/*.js"
+  },
+  "keywords": [
+    "clean",
+    "code",
+    "optional",
+    "dependency",
+    "dependencies"
+  ],
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^8.0.0",
+    "tap": "^7.0.0"
+  },
+  "dependencies": {
+    "package-missing": "^1.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinheidegger/require-implementation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martinheidegger/require-implementation/issues"
+  },
+  "homepage": "https://github.com/martinheidegger/require-implementation#readme"
+}
