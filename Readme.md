@@ -24,8 +24,8 @@ try {
   e.recommendedPackages == ['math']
 
   e.message === 'EPACKAGEMISSING: Trying to do some math.\n'+
-                'This error can be easily fixed by running ONE of the following commands:\n'+
-                '- npm install math --save'
+                'This error can be easily fixed by running the following command:\n'+
+                '$ npm install --save math'
 }
 
 ```
