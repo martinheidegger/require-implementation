@@ -1,6 +1,6 @@
 {
   "name": "require-implementation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package that helps you to be okay if some dependency is missing.",
   "main": "implementation.js",
   "scripts": {
