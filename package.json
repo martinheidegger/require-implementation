@@ -20,10 +20,7 @@
     "tap": "^7.0.0"
   },
   "dependencies": {
-    "package-missing": "^1.0.0"
-  },
-  "directories": {
-    "test": "test"
+    "package-missing": "^1.1.0"
   },
   "repository": {
     "type": "git",

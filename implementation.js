@@ -8,7 +8,7 @@ module.exports = function (task) {
       try {
         return require(dependency)
       } catch (e) {
-        throw new PackageMissingError(task, [dependency])
+        throw new PackageMissingError(task, dependency)
       }
     },
 
